@@ -1,4 +1,5 @@
 import os
+print(os.environ['APP_SETTINGS'])
 from flask import Flask
 
 
